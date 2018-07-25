@@ -1,0 +1,243 @@
+
+//This is difference 
+
+least_square_fit.c
+fitting upthrust vs time curve from homework1 20 points 0.0 to 1.9, 3 degree polynomial
+C[0]=4.72951 
+C[1]=2.43813 
+C[2]=-2.46912 
+C[3]=0.321903 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=8.97905 at 1, xbad=0.2, ybad=14.1
+rms_err=2.44249, avg_err=1.34976, max_err=8.97905 
+
+fitting upthrust vs time curve from homework1 20 points 0.0 to 1.9, 4 degree polynomial
+C[0]=4.34589 
+C[1]=5.31468 
+C[2]=-6.86496 
+C[3]=2.39222 
+C[4]=-0.235971 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=8.94701 at 1, xbad=0.2, ybad=14.1
+rms_err=2.43635, avg_err=1.39984, max_err=8.94701 
+
+fitting upthrust vs time curve from homework1 20 points 0.0 to 1.9, 5 degree polynomial
+C[0]=2.01721 
+C[1]=42.789 
+C[2]=-111.922 
+C[3]=104.33 
+C[4]=-37.5905 
+C[5]=3.85192 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=7.22616 at 1, xbad=0.2, ybad=14.1
+rms_err=1.98693, avg_err=1.24735, max_err=7.22616 
+
+fitting uthrust vs time curve from homework1   20 points 0.0 to 1.0, 6 degree polynomial
+C[0]=1.22856 
+C[1]=73.4051 
+C[2]=-250.038 
+C[3]=326.86 
+C[4]=-193.912 
+C[5]=50.6998 
+C[6]=-4.39328 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=5.87136 at 1, xbad=0.2, ybad=14.1
+rms_err=1.83761, avg_err=1.27627, max_err=5.87136 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 7 degree polynomial
+C[0]=0.414572 
+C[1]=161.532 
+C[2]=-820.445 
+C[3]=1669.22 
+C[4]=-1673.86 
+C[5]=860.441 
+C[6]=-209.55 
+C[7]=17.5872 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=3.48662 at 2, xbad=0.3, ybad=5
+rms_err=1.23641, avg_err=0.827506, max_err=3.48662 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 8 degree polynomial
+C[0]=0.204771 
+C[1]=233.342 
+C[2]=-1428.46 
+C[3]=3586.18 
+C[4]=-4643.71 
+C[5]=3332.36 
+C[6]=-1316.54 
+C[7]=260.839 
+C[8]=-19.1785 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=3.05232 at 2, xbad=0.3, ybad=5
+rms_err=1.03167, avg_err=0.743126, max_err=3.05232 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 9 degree polynomial
+C[0]=0.208673 
+C[1]=214.786 
+C[2]=-1225.43 
+C[3]=2741.01 
+C[4]=-2861.33 
+C[5]=1220.24 
+C[6]=134.215 
+C[7]=-302.699 
+C[8]=92.3992 
+C[9]=-8.241 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=3.18881 at 2, xbad=0.3, ybad=5
+rms_err=1.12971, avg_err=0.847045, max_err=3.18881 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 10 degree polynomial
+C[0]=0.170587 
+C[1]=250.186 
+C[2]=-1582.08 
+C[3]=4107.31 
+C[4]=-5494.1 
+C[5]=4016.16 
+C[6]=-1505.2 
+C[7]=168.112 
+C[8]=64.415 
+C[9]=-21.8536 
+C[10]=1.82361 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=2.93671 at 2, xbad=0.3, ybad=5
+rms_err=0.977639, avg_err=0.694255, max_err=2.93671 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 11 degree polynomial
+C[0]=0.166315 
+C[1]=284.667 
+C[2]=-1931.71 
+C[3]=5393.39 
+C[4]=-7712.02 
+C[5]=5852.68 
+C[6]=-2046.43 
+C[7]=38.5137 
+C[8]=123.688 
+C[9]=18.3753 
+C[10]=-19.0246 
+C[11]=2.22025 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=2.61396 at 2, xbad=0.3, ybad=5
+rms_err=0.764753, avg_err=0.395274, max_err=2.61396 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 12 degree polynomial
+C[0]=-0.0853572 
+C[1]=504.438 
+C[2]=-4126.39 
+C[3]=13739.2 
+C[4]=-23737.8 
+C[5]=22960.8 
+C[6]=-12351.4 
+C[7]=3308.43 
+C[8]=-279.771 
+C[9]=-5.18655 
+C[10]=-9.70437 
+C[11]=0.494485 
+C[12]=0.197117 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=1.67867 at 17, xbad=1.8, ybad=4.5
+rms_err=0.9895, avg_err=0.847516, max_err=1.67867 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 13 degree polynomial
+C[0]=0.125875 
+C[1]=293.202 
+C[2]=-2005.88 
+C[3]=5673.29 
+C[4]=-8353.28 
+C[5]=6823.74 
+C[6]=-2980.23 
+C[7]=548.727 
+C[8]=11.6724 
+C[9]=-3.08016 
+C[10]=-3.85764 
+C[11]=0.159194 
+C[12]=-0.0149328 
+C[13]=0.0123645 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=2.60447 at 2, xbad=0.3, ybad=5
+rms_err=0.789489, avg_err=0.501985, max_err=2.60447 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 14 degree polynomial
+C[0]=0.255322 
+C[1]=198.138 
+C[2]=-1097.72 
+C[3]=2427.78 
+C[4]=-2650.63 
+C[5]=1488.22 
+C[6]=-367.119 
+C[7]=-52.2409 
+C[8]=97.0949 
+C[9]=-46.8357 
+C[10]=8.21587 
+C[11]=0.198975 
+C[12]=0.0038784 
+C[13]=-0.0210146 
+C[14]=0.000371288 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=3.32492 at 2, xbad=0.3, ybad=5
+rms_err=1.20375, avg_err=0.919642, max_err=3.32492 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 15 degree polynomial
+C[0]=0.0317988 
+C[1]=406.414 
+C[2]=-3161.79 
+C[3]=10147.2 
+C[4]=-17039.6 
+C[5]=16093.7 
+C[6]=-8431.21 
+C[7]=2126.81 
+C[8]=-103.625 
+C[9]=-32.4936 
+C[10]=-1.38439 
+C[11]=-0.453819 
+C[12]=0.265303 
+C[13]=0.00736981 
+C[14]=0.000693379 
+C[15]=-0.000606948 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=1.76738 at 2, xbad=0.3, ybad=5
+rms_err=0.665548, avg_err=0.521504, max_err=1.76738 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 16 degree polynomial
+C[0]=0.261059 
+C[1]=214.086 
+C[2]=-1267.55 
+C[3]=3098.48 
+C[4]=-3964.45 
+C[5]=2919.78 
+C[6]=-1303.5 
+C[7]=368.168 
+C[8]=-65.7694 
+C[9]=5.86128 
+C[10]=-0.40254 
+C[11]=0.186773 
+C[12]=-0.00423274 
+C[13]=0.00718166 
+C[14]=-0.00167622 
+C[15]=3.62469e-05 
+C[16]=-8.05747e-06 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=3.17513 at 2, xbad=0.3, ybad=5
+rms_err=1.07996, avg_err=0.776982, max_err=3.17513 
+
+fitting upthrust vs time curve from homwowrk1 20 points 0.0 to 1.9, 17 degree polynomial
+C[0]=1.08639 
+C[1]=-460.29 
+C[2]=5277.5 
+C[3]=-20746.5 
+C[4]=38999.8 
+C[5]=-38734.4 
+C[6]=20220.7 
+C[7]=-4877.88 
+C[8]=374.205 
+C[9]=-73.8699 
+C[10]=27.7996 
+C[11]=1.93022 
+C[12]=0.207283 
+C[13]=0.0671727 
+C[14]=-0.000746324 
+C[15]=-0.00258979 
+C[16]=-0.000305086 
+C[17]=-4.60784e-05 
+check_pn k=20, xmin=0, xmax=6, ymin=0, ymax=14.1 
+max=9.58621 at 17, xbad=1.8, ybad=4.5
+rms_err=5.24066, avg_err=4.46125, max_err=9.58621 
