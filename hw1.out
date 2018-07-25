@@ -1,0 +1,539 @@
+t =0.100000 sec
+s =0.950635 meter
+v=9.506352 meter per second
+a =95.063521 meter per second squared
+m =0.057214 kilogram
+
+ 
+t =0.200000 sec
+s =4.368766 meter
+v=34.181312 meter per second
+a =246.749597 meter per second squared
+m =0.054896 kilogram
+
+ 
+t =0.300000 sec
+s =10.330748 meter
+v=59.619813 meter per second
+a =254.385015 meter per second squared
+m =0.052578 kilogram
+
+ 
+t =0.400000 sec
+s =16.939827 meter
+v=66.090797 meter per second
+a =64.709841 meter per second squared
+m =0.051838 kilogram
+
+ 
+t =0.500000 sec
+s =24.178254 meter
+v=72.384265 meter per second
+a =62.934674 meter per second squared
+m =0.051098 kilogram
+
+ 
+t =0.600000 sec
+s =32.025688 meter
+v=78.474346 meter per second
+a =60.900811 meter per second squared
+m =0.050358 kilogram
+
+ 
+t =0.700000 sec
+s =40.459479 meter
+v=84.337903 meter per second
+a =58.635570 meter per second squared
+m =0.049618 kilogram
+
+ 
+t =0.800000 sec
+s =49.454969 meter
+v=89.954905 meter per second
+a =56.170021 meter per second squared
+m =0.048879 kilogram
+
+ 
+t =0.900000 sec
+s =58.985840 meter
+v=95.308708 meter per second
+a =53.538029 meter per second squared
+m =0.048139 kilogram
+
+ 
+t =1.000000 sec
+s =69.024463 meter
+v=100.386231 meter per second
+a =50.775231 meter per second squared
+m =0.047399 kilogram
+
+ 
+t =1.100000 sec
+s =79.542266 meter
+v=105.178029 meter per second
+a =47.917981 meter per second squared
+m =0.046659 kilogram
+
+ 
+t =1.200000 sec
+s =90.510092 meter
+v=109.678262 meter per second
+a =45.002331 meter per second squared
+m =0.045919 kilogram
+
+ 
+t =1.300000 sec
+s =101.898549 meter
+v=113.884571 meter per second
+a =42.063092 meter per second squared
+m =0.045180 kilogram
+
+ 
+t =1.400000 sec
+s =113.678337 meter
+v=117.797873 meter per second
+a =39.133014 meter per second squared
+m =0.044440 kilogram
+
+ 
+t =1.500000 sec
+s =125.820545 meter
+v=121.422083 meter per second
+a =36.242107 meter per second squared
+m =0.043700 kilogram
+
+ 
+t =1.600000 sec
+s =138.296925 meter
+v=124.763797 meter per second
+a =33.417135 meter per second squared
+m =0.042960 kilogram
+
+ 
+t =1.700000 sec
+s =151.080117 meter
+v=127.831924 meter per second
+a =30.681272 meter per second squared
+m =0.042220 kilogram
+
+ 
+t =1.800000 sec
+s =164.143849 meter
+v=130.637316 meter per second
+a =28.053918 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =1.900000 sec
+s =176.371935 meter
+v=122.280858 meter per second
+a =-83.564577 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.000000 sec
+s =187.855718 meter
+v=114.837833 meter per second
+a =-74.430252 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.100000 sec
+s =198.671475 meter
+v=108.157571 meter per second
+a =-66.802625 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.200000 sec
+s =208.883588 meter
+v=102.121127 meter per second
+a =-60.364437 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.300000 sec
+s =218.546915 meter
+v=96.633277 meter per second
+a =-54.878502 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.400000 sec
+s =227.708598 meter
+v=91.616830 meter per second
+a =-50.164463 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.500000 sec
+s =236.409450 meter
+v=87.008521 meter per second
+a =-46.083096 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.600000 sec
+s =244.685048 meter
+v=82.755973 meter per second
+a =-42.525481 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.700000 sec
+s =252.566591 meter
+v=78.815436 meter per second
+a =-39.405368 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.800000 sec
+s =260.081598 meter
+v=75.150065 meter per second
+a =-36.653712 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =2.900000 sec
+s =267.254457 meter
+v=71.728596 meter per second
+a =-34.214691 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.000000 sec
+s =274.106889 meter
+v=68.524319 meter per second
+a =-32.042762 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.100000 sec
+s =280.658316 meter
+v=65.514273 meter per second
+a =-30.100464 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.200000 sec
+s =286.926176 meter
+v=62.678599 meter per second
+a =-28.356742 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.300000 sec
+s =292.926179 meter
+v=60.000031 meter per second
+a =-26.785676 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.400000 sec
+s =298.672528 meter
+v=57.463482 meter per second
+a =-25.365488 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.500000 sec
+s =304.178098 meter
+v=55.055705 meter per second
+a =-24.077771 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.600000 sec
+s =309.454600 meter
+v=52.765017 meter per second
+a =-22.906878 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.700000 sec
+s =314.512707 meter
+v=50.581073 meter per second
+a =-21.839441 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.800000 sec
+s =319.362175 meter
+v=48.494675 meter per second
+a =-20.863980 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =3.900000 sec
+s =324.011936 meter
+v=46.497616 meter per second
+a =-19.970595 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.000000 sec
+s =328.470191 meter
+v=44.582545 meter per second
+a =-19.150709 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.100000 sec
+s =332.744477 meter
+v=42.742859 meter per second
+a =-18.396863 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.200000 sec
+s =336.841737 meter
+v=40.972604 meter per second
+a =-17.702544 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.300000 sec
+s =340.768377 meter
+v=39.266399 meter per second
+a =-17.062050 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.400000 sec
+s =344.530313 meter
+v=37.619363 meter per second
+a =-16.470364 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.500000 sec
+s =348.133019 meter
+v=36.027056 meter per second
+a =-15.923067 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.600000 sec
+s =351.581562 meter
+v=34.485431 meter per second
+a =-15.416248 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.700000 sec
+s =354.880641 meter
+v=32.990787 meter per second
+a =-14.946442 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.800000 sec
+s =358.034614 meter
+v=31.539730 meter per second
+a =-14.510566 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =4.900000 sec
+s =361.047528 meter
+v=30.129143 meter per second
+a =-14.105875 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.000000 sec
+s =363.923143 meter
+v=28.756151 meter per second
+a =-13.729916 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.100000 sec
+s =366.664954 meter
+v=27.418102 meter per second
+a =-13.380495 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.200000 sec
+s =369.276207 meter
+v=26.112537 meter per second
+a =-13.055645 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.300000 sec
+s =371.759925 meter
+v=24.837178 meter per second
+a =-12.753597 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.400000 sec
+s =374.118915 meter
+v=23.589901 meter per second
+a =-12.472764 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.500000 sec
+s =376.355788 meter
+v=22.368730 meter per second
+a =-12.211713 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.600000 sec
+s =378.472970 meter
+v=21.171815 meter per second
+a =-11.969154 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.700000 sec
+s =380.472712 meter
+v=19.997423 meter per second
+a =-11.743921 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.800000 sec
+s =382.357105 meter
+v=18.843926 meter per second
+a =-11.534962 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =5.900000 sec
+s =384.128084 meter
+v=17.709794 meter per second
+a =-11.341327 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.000000 sec
+s =385.787442 meter
+v=16.593578 meter per second
+a =-11.162155 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.100000 sec
+s =387.336833 meter
+v=15.493911 meter per second
+a =-10.996670 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.200000 sec
+s =388.777782 meter
+v=14.409494 meter per second
+a =-10.844170 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.300000 sec
+s =390.111691 meter
+v=13.339092 meter per second
+a =-10.704020 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.400000 sec
+s =391.339844 meter
+v=12.281527 meter per second
+a =-10.575651 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.500000 sec
+s =392.463411 meter
+v=11.235672 meter per second
+a =-10.458547 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.600000 sec
+s =393.483456 meter
+v=10.200448 meter per second
+a =-10.352247 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.700000 sec
+s =394.400937 meter
+v=9.174814 meter per second
+a =-10.256339 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.800000 sec
+s =395.216714 meter
+v=8.157768 meter per second
+a =-10.170455 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =6.900000 sec
+s =395.931548 meter
+v=7.148341 meter per second
+a =-10.094269 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.000000 sec
+s =396.546108 meter
+v=6.145592 meter per second
+a =-10.027494 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.100000 sec
+s =397.060968 meter
+v=5.148604 meter per second
+a =-9.969881 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.200000 sec
+s =397.476616 meter
+v=4.156482 meter per second
+a =-9.921215 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.300000 sec
+s =397.793451 meter
+v=3.168351 meter per second
+a =-9.881317 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.400000 sec
+s =398.011786 meter
+v=2.183347 meter per second
+a =-9.850035 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.500000 sec
+s =398.131848 meter
+v=1.200622 meter per second
+a =-9.827252 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.600000 sec
+s =398.153782 meter
+v=0.219334 meter per second
+a =-9.812880 meter per second squared
+m =0.041481 kilogram
+
+ 
+t =7.700000 sec
+s =398.077646 meter
+v=-0.761352 meter per second
+a =-9.806858 meter per second squared
+m =0.041481 kilogram
+
+ 
